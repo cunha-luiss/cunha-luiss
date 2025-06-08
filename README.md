@@ -6,7 +6,6 @@ Seja bem vindo a minha conta do Github! Sou um programador com interesses em Mac
 
 - 🔭 Atualmente trabalhando na Programação Orientada a Objetos (Python e Swift)
 - 🌱 Estou aprendendo C e C#
-- 💭 Interessado em: [Your Pronouns]
 
 ## 🛠️ Tecnologias e ferramentas
 
