@@ -1,11 +1,11 @@
 # Olá, Sou Luis Felipe! 👋
 
-Seja bem vindo a minha conta do Github! Sou um programador com interesses em Machine Learning, Inteligência Artificial e Desenvolvimento Nativo Swift. Eu amo aprender, experimentar e compartilhar meu conhecimento com a comunidade!
+Seja bem vindo a minha conta do Github! Sou um programador com interesses em Machine Learning, Inteligência Artificial, Desenvolvimento Nativo Swift e IoT. Eu amo aprender, experimentar e compartilhar meu conhecimento com a comunidade!
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando na Programação Orientada a Objetos (Python e Swift)
-- 🌱 Estou aprendendo C e C#
+- 🔭 Atualmente trabalhando na Programação Websocket em microprocessadores, como esp32
+- 🌱 Estou aprendendo C/C++ e C#
 
 ## 🛠️ Tecnologias e ferramentas
 
