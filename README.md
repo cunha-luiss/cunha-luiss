@@ -6,6 +6,7 @@ Seja bem vindo a minha conta do Github! Sou um programador com interesses em Mac
 
 - 🔭 Atualmente trabalhando na Programação Websocket em microprocessadores, como esp32
 - 🌱 Estou aprendendo C/C++ e C#
+- 📈 No momento, realizando processo Trainee da CJR e aprendendo sobre Next.js, Nest.js, PostreSQL, Prisma e Tailwind
 
 ## 🛠️ Tecnologias e ferramentas
 
