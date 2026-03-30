@@ -4,9 +4,11 @@ Seja bem vindo a minha conta do Github! Sou um programador com interesses em Mac
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando na Programação Websocket em microprocessadores, como esp32
-- 🌱 Estou aprendendo C/C++ e C#
-- 📈 No momento, realizando processo Trainee da CJR e aprendendo sobre Next.js, Nest.js, PostreSQL, Prisma e Tailwind
+- 🔭 Atualmente trabalhando na programação Mobile usando React Native e na CyberSegurança
+- 🌱 Estou aprendendo C/C++, C# e ReactNative/ Expo
+- 🎓 Assesor da Gestão de Membros do núcleo NUT da Empresa Júnior CJR e estudante da UnB de Engenharia de Software
+- 📈 Aprendendo sobre Next.js, Nest.js, PostreSQL, Prisma e Tailwind
+- ⚙️ Já trabalhei com Programação Websocket em microprocessadores, como esp32
 
 ## 🛠️ Tecnologias e ferramentas
 
