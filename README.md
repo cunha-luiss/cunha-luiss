@@ -12,6 +12,8 @@ Seja bem vindo a minha conta do Github! Sou um programador com interesses em Mac
 
 ## 🛠️ Tecnologias e ferramentas
 
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=20232A)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -21,6 +23,7 @@ Seja bem vindo a minha conta do Github! Sou um programador com interesses em Mac
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## 📈 GitHub Stats
