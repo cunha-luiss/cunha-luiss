@@ -4,10 +4,10 @@ Seja bem vindo a minha conta do Github! Sou um programador com interesses em Mac
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando na programação Mobile usando React Native e na CyberSegurança
+- 🔭 Atualmente trabalhando na programação Mobile usando React Native e na CiberSegurança
 - 🌱 Estou aprendendo C/C++, C# e ReactNative/ Expo
-- 🎓 Assesor da Gestão de Membros do núcleo NUT da Empresa Júnior CJR e estudante da UnB de Engenharia de Software
-- 📈 Aprendendo sobre Next.js, Nest.js, PostreSQL, Prisma e Tailwind
+- 🎓 Assessor da Gestão de Membros do núcleo NUT e Assessor da Presidência da Empresa Júnior CJR e estudante da UnB de Engenharia de Software
+- 📈 Reaprendendo programação em Swift, Next.JS
 - ⚙️ Já trabalhei com Programação Websocket em microprocessadores, como esp32
 
 ## 🛠️ Tecnologias e ferramentas
