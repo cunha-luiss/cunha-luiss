@@ -28,11 +28,11 @@ Seja bem vindo a minha conta do Github! Sou um programador com interesses em Mac
 
 ## 📈 GitHub Stats
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=cunha-luiss&show_icons=true&theme=radical)
+![Luis's GitHub stats](https://github-readme-stats.shion.dev/api?username=cunha-luiss&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cunha-luiss&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=cunha-luiss&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 GitHub Contributions
 
